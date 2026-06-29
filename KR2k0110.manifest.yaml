@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR2k0110/v1
+canonical_location: https://kanripo.org/bkk/KR2k0110/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 岳陽風土記
+  date: '2015-08-24 22:45:54.581262'
+  source:
+    repository: kanripo
+    path: KR2k0110
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2k0110_000.yaml, hash: 'sha256:402299b628d4cd79aa0baa64f50ccd24acbf4afdd202d47ce5d27b5af505f9e3'}
+  - {seq: 1, filename: KR2k0110_001.yaml, hash: 'sha256:e75d97a380bb9151b94740e3c7da35adbc38c6a1b5f5d3440b4efab47fff49cd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2k0110_000.markers.yaml, hash: 'sha256:949c01d5f6384c148c98ee6e1111ddcee6bfe90b1a2d90e246dcbf76d5fdfc28'}
+  - {seq: 1, role: markers, filename: assets/KR2k0110_001.markers.yaml, hash: 'sha256:cfd324d96c3764f6004517bef3cc5606f967f36a795efd367ef613e9fd584d57'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2k0110_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 461
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2k0110_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 8119
+  label: 岳陽風土記
+  type: section
+  level: 1
+hash: sha256:93f62f2a92544080629aa68af6f9d06d4e8fc747b3e88dc7eeae569b4a88cad5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
