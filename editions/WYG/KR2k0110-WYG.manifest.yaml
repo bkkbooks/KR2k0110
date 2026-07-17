@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR2k0110_000-WYG.yaml, hash: 'sha256:c05304abf6714f9106eb39fe79a70b9a82ab62ccb5fa9b53af30776027bc5824'}
   - {seq: 1, filename: KR2k0110_001-WYG.yaml, hash: 'sha256:5736854de2792ee3f7338e8d4207fe980c5da1a3dc17e386e444842f0d71d7f4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0110_000-WYG.markers.yaml, hash: 'sha256:099d257ea2372b9336b41fcf531f27fd043ac91acd7505d9bcbad5ae79ebe068'}
+  - {seq: 0, role: markers, filename: assets/KR2k0110_000-WYG.markers.yaml, hash: 'sha256:59707954363498430eeb3e8cb29655ebb4d04dc087295a431647a64389740fd7'}
   - {seq: 1, role: markers, filename: assets/KR2k0110_001-WYG.markers.yaml, hash: 'sha256:0b53f15bd9172694e57c75428117dba10e8b6af9cd21db88d7428eac4231d81f'}
 table_of_contents:
 - ref:
@@ -43,4 +43,4 @@ table_of_contents:
   label: 岳陽風土記
   type: section
   level: 1
-hash: sha256:b62aad839ee4eac04b4ba7162bca5bd9b8b676186882ec74dd4370f40e6424f7
+hash: sha256:3ad01c9a04882024c56cfa98348acb8cafb5c27e06bff4d37d805407a8c858ec

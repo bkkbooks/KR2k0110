@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR2k0110_000.yaml, hash: 'sha256:5c4d607b8d058d9f257a725bb925ec439819e4afaf92de71ebf4586d160ff0c8'}
   - {seq: 1, filename: KR2k0110_001.yaml, hash: 'sha256:48560b5b5f6ac63c1d64852db15257a9325cb5357f05611096e6b60e076a5c6b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0110_000.markers.yaml, hash: 'sha256:3c40b79e73b3094e31b807c6eee1c069079abb53a32ccc65ced77dc00bb16d50'}
+  - {seq: 0, role: markers, filename: assets/KR2k0110_000.markers.yaml, hash: 'sha256:8606890649952781d9e18f0cfdf9223935b9d95259680e1ad8db2054d5bafaba'}
   - {seq: 1, role: markers, filename: assets/KR2k0110_001.markers.yaml, hash: 'sha256:39e7143b27e86c26d3f674d910ddd7a134af63ffb18f2469147139902baec4bf'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 岳陽風土記
   type: section
   level: 1
-hash: sha256:74756a0d319b3b61c6a08a87d6126dc7b9fbf7e753aeec1fa09104826e11d25e
+hash: sha256:bdbdaac134fe50161fc5ebc24fd720dde6e7a517c2dd65bf615a2bcdf5490b6a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
